@@ -1,0 +1,12 @@
+body {
+  background-color: #708090;
+  text-align: center;
+  color: #fffafa;
+  font-family: Luminari, fantasy;
+  /*^ This Changes The Font^*/
+}
+
+#solveLogarithm {
+  text-align: center;
+  border-radius: 10%;
+}
